@@ -1,0 +1,6 @@
+interface:
+  display_name: "Standard Handoff"
+  short_description: "Manual, compact, evidence-honest project handoff"
+  default_prompt: "Use $standard-handoff to write or receive a handoff.md for the current project."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,15 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Local scratch
+*.tmp
+*.log
+
+# Build artifacts are distributed via GitHub Releases, not committed
+dist/
